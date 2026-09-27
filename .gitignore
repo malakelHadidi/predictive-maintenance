@@ -1,0 +1,75 @@
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# =========================
+# Streamlit secrets
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+*.pem
+*.key
+
+# =========================
+# IDE
+# =========================
+.vscode/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Local generated data
+# =========================
+data/raw/*
+data/processed/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# =========================
+# Optional: large model files
+# Uncomment if using Git LFS
+# =========================
+# *.h5
+# *.keras
+# *.pkl
+# *.joblib
+
+# Large trained models
+models/feature_engineered_baseline_rf.joblib
+models/random_forest_baseline.joblib
+
+# Large processed dataset
+data/processed/train_features.csv

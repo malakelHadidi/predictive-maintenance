@@ -1,0 +1,101 @@
+unit,predicted_RUL,status,action
+1,135.00616455078125,NORMAL,Continue operation and monitor condition.
+2,127.4201889038086,NORMAL,Continue operation and monitor condition.
+3,56.79107666015625,NORMAL,Continue operation and monitor condition.
+4,101.52123260498047,NORMAL,Continue operation and monitor condition.
+5,106.08883666992188,NORMAL,Continue operation and monitor condition.
+6,122.34507751464844,NORMAL,Continue operation and monitor condition.
+7,86.49620819091797,NORMAL,Continue operation and monitor condition.
+8,92.476318359375,NORMAL,Continue operation and monitor condition.
+9,152.3850555419922,NORMAL,Continue operation and monitor condition.
+10,99.82818603515625,NORMAL,Continue operation and monitor condition.
+11,119.80896759033203,NORMAL,Continue operation and monitor condition.
+12,95.14956665039062,NORMAL,Continue operation and monitor condition.
+13,65.78236389160156,NORMAL,Continue operation and monitor condition.
+14,144.83680725097656,NORMAL,Continue operation and monitor condition.
+15,108.02709197998047,NORMAL,Continue operation and monitor condition.
+16,154.57025146484375,NORMAL,Continue operation and monitor condition.
+17,51.26244354248047,NORMAL,Continue operation and monitor condition.
+18,36.436004638671875,NORMAL,Continue operation and monitor condition.
+19,84.86068725585938,NORMAL,Continue operation and monitor condition.
+20,24.151954650878906,WARNING,Plan maintenance and monitor the engine closely.
+21,72.93448638916016,NORMAL,Continue operation and monitor condition.
+22,153.914794921875,NORMAL,Continue operation and monitor condition.
+23,194.42356872558594,NORMAL,Continue operation and monitor condition.
+24,20.385202407836914,WARNING,Plan maintenance and monitor the engine closely.
+25,246.37147521972656,NORMAL,Continue operation and monitor condition.
+26,189.7172088623047,NORMAL,Continue operation and monitor condition.
+27,92.62789154052734,NORMAL,Continue operation and monitor condition.
+28,112.8956527709961,NORMAL,Continue operation and monitor condition.
+29,110.74446868896484,NORMAL,Continue operation and monitor condition.
+30,103.41502380371094,NORMAL,Continue operation and monitor condition.
+31,10.007881164550781,CRITICAL,Schedule maintenance as soon as possible.
+32,49.839134216308594,NORMAL,Continue operation and monitor condition.
+33,105.93993377685547,NORMAL,Continue operation and monitor condition.
+34,7.071195125579834,CRITICAL,Schedule maintenance as soon as possible.
+35,25.607271194458008,WARNING,Plan maintenance and monitor the engine closely.
+36,35.30674743652344,NORMAL,Continue operation and monitor condition.
+37,28.181486129760742,WARNING,Plan maintenance and monitor the engine closely.
+38,50.56877136230469,NORMAL,Continue operation and monitor condition.
+39,155.71365356445312,NORMAL,Continue operation and monitor condition.
+40,44.95648193359375,NORMAL,Continue operation and monitor condition.
+41,43.69378662109375,NORMAL,Continue operation and monitor condition.
+42,12.456453323364258,CRITICAL,Schedule maintenance as soon as possible.
+43,83.76119995117188,NORMAL,Continue operation and monitor condition.
+44,161.08734130859375,NORMAL,Continue operation and monitor condition.
+45,96.64842224121094,NORMAL,Continue operation and monitor condition.
+46,38.46289825439453,NORMAL,Continue operation and monitor condition.
+47,101.85794067382812,NORMAL,Continue operation and monitor condition.
+48,155.94827270507812,NORMAL,Continue operation and monitor condition.
+49,20.131275177001953,WARNING,Plan maintenance and monitor the engine closely.
+50,89.21808624267578,NORMAL,Continue operation and monitor condition.
+51,115.32621765136719,NORMAL,Continue operation and monitor condition.
+52,28.771854400634766,WARNING,Plan maintenance and monitor the engine closely.
+53,29.92361831665039,WARNING,Plan maintenance and monitor the engine closely.
+54,125.60693359375,NORMAL,Continue operation and monitor condition.
+55,102.62183380126953,NORMAL,Continue operation and monitor condition.
+56,17.049739837646484,WARNING,Plan maintenance and monitor the engine closely.
+57,100.43988800048828,NORMAL,Continue operation and monitor condition.
+58,76.411865234375,NORMAL,Continue operation and monitor condition.
+59,127.05679321289062,NORMAL,Continue operation and monitor condition.
+60,102.69007110595703,NORMAL,Continue operation and monitor condition.
+61,29.450517654418945,WARNING,Plan maintenance and monitor the engine closely.
+62,48.104469299316406,NORMAL,Continue operation and monitor condition.
+63,82.37975311279297,NORMAL,Continue operation and monitor condition.
+64,27.389558792114258,WARNING,Plan maintenance and monitor the engine closely.
+65,123.1224136352539,NORMAL,Continue operation and monitor condition.
+66,13.009048461914062,CRITICAL,Schedule maintenance as soon as possible.
+67,95.89132690429688,NORMAL,Continue operation and monitor condition.
+68,11.453779220581055,CRITICAL,Schedule maintenance as soon as possible.
+69,218.5608367919922,NORMAL,Continue operation and monitor condition.
+70,99.50718688964844,NORMAL,Continue operation and monitor condition.
+71,112.48066711425781,NORMAL,Continue operation and monitor condition.
+72,99.85646057128906,NORMAL,Continue operation and monitor condition.
+73,129.64779663085938,NORMAL,Continue operation and monitor condition.
+74,125.71637725830078,NORMAL,Continue operation and monitor condition.
+75,91.03856658935547,NORMAL,Continue operation and monitor condition.
+76,11.25299072265625,CRITICAL,Schedule maintenance as soon as possible.
+77,45.29235076904297,NORMAL,Continue operation and monitor condition.
+78,166.0771942138672,NORMAL,Continue operation and monitor condition.
+79,113.37372589111328,NORMAL,Continue operation and monitor condition.
+80,82.24858093261719,NORMAL,Continue operation and monitor condition.
+81,10.103663444519043,CRITICAL,Schedule maintenance as soon as possible.
+82,12.896207809448242,CRITICAL,Schedule maintenance as soon as possible.
+83,144.72254943847656,NORMAL,Continue operation and monitor condition.
+84,65.33567810058594,NORMAL,Continue operation and monitor condition.
+85,143.61322021484375,NORMAL,Continue operation and monitor condition.
+86,127.49484252929688,NORMAL,Continue operation and monitor condition.
+87,127.64533233642578,NORMAL,Continue operation and monitor condition.
+88,136.51231384277344,NORMAL,Continue operation and monitor condition.
+89,88.72900390625,NORMAL,Continue operation and monitor condition.
+90,38.598724365234375,NORMAL,Continue operation and monitor condition.
+91,20.584333419799805,WARNING,Plan maintenance and monitor the engine closely.
+92,23.244924545288086,WARNING,Plan maintenance and monitor the engine closely.
+93,50.56818389892578,NORMAL,Continue operation and monitor condition.
+94,69.76409149169922,NORMAL,Continue operation and monitor condition.
+95,137.05917358398438,NORMAL,Continue operation and monitor condition.
+96,100.6194839477539,NORMAL,Continue operation and monitor condition.
+97,75.15769958496094,NORMAL,Continue operation and monitor condition.
+98,90.53964233398438,NORMAL,Continue operation and monitor condition.
+99,148.71063232421875,NORMAL,Continue operation and monitor condition.
+100,19.684850692749023,WARNING,Plan maintenance and monitor the engine closely.
