@@ -28,29 +28,9 @@ The final system provides:
 - Streamlit-based user interface
 - Microsoft Outlook calendar integration
 
-## System Pipeline
-
-```text
-Raw Sensor Data
-       ↓
-Data Preprocessing
-       ↓
-Feature Engineering
-       ↓
-Train/Test Split
-       ↓
-Machine Learning / Deep Learning Models
-       ↓
-RUL Prediction
-       ↓
-Health Status
-       ↓
-Maintenance Decision
-       ↓
-Outlook Scheduling
 
 
-Models
+## Models
 
 Several models were investigated during development:
 
@@ -63,7 +43,7 @@ Stacked LSTM architecture
 The notebooks document the development and evaluation process for each
 model.
 
-Dataset
+## Dataset
 
 The project uses the NASA C-MAPSS (Commercial Modular Aero-Propulsion
 System Simulation) turbofan engine degradation dataset FD001.
@@ -77,6 +57,10 @@ Multiple sensor measurements
 Remaining Useful Life information
 
 The raw dataset is not included in this repository.
+
+## System Pipeline
+
+Raw Sensor Data⟶Data Preprocessing⟶Feature Engineering⟶Train/Test Split⟶Machine Learning / Deep Learning Models⟶RUL Prediction⟶Health Status⟶Maintenance Decision⟶Outlook Scheduling
 
 
 ## Model Performance Comparison
